@@ -5,10 +5,11 @@
 /* BASE COLORS */
 
     /* 
-    --background: #EBEBEB;
-    --background-blue: #C7DDEA;
-    --background-yellow: #FAB131;
-    --background-red: #F17949;
+        --background: #EBEBEB;
+        --background-blue: #C7DDEA;
+        --background-yellow: #FAB131;
+        --background-red: #F17949;
+        --background-darkgrey: #A9A19E;
     */
 
 
@@ -21,7 +22,6 @@
 }
 
 body {
-    background: #EBEBEB;
 }
 
 h1, h2, h3 {
@@ -50,8 +50,6 @@ p {
 /* PAGE WRAPPER */
 
 .wrapper {
-    width: 1000px;
-    margin: auto;
 }
 
 /* HERO SECTION */
@@ -72,9 +70,13 @@ p {
 }
 
 .hero__join-button {
+
 }
 
 .hero__learn, .hero__join {
+}
+
+.hero__learn {
 }
 
 
@@ -94,6 +96,8 @@ p {
 
 .menu .active {
 }
+
+/* INFO SECTION */
 
 .info {
 }
