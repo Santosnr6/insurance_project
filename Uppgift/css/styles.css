@@ -1,0 +1,187 @@
+/**
+* BEM = Block Element Modifier
+*/
+
+/* BASE COLORS */
+
+    /* 
+    --background: #EBEBEB;
+    --background-blue: #C7DDEA;
+    --background-yellow: #FAB131;
+    --background-red: #F17949;
+    */
+
+
+/* BASE */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #EBEBEB;
+}
+
+h1, h2, h3 {
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+h1 {
+    font-size: 2.6rem;
+    margin: 0;
+    color: #fff;
+}
+
+h2 {
+    font-size: 2.2rem;
+    margin: 0;
+    color: #fff;
+}
+  
+p {
+    font-family: 'Fira Sans', sans-serif;
+    color: rgba(0, 0, 0, 0.7);
+    margin: 0;
+    line-height: 1.5;
+}
+
+/* PAGE WRAPPER */
+
+.wrapper {
+    width: 1000px;
+    margin: auto;
+}
+
+/* HERO SECTION */
+
+.hero {
+}
+
+.hero__welcome {
+}
+
+.hero__welcome h1 {
+}
+
+.hero__welcome p {
+}
+
+.hero__welcome span {
+}
+
+.hero__join-button {
+}
+
+.hero__learn, .hero__join {
+}
+
+
+.hero__join {
+}
+
+/* MENU */
+
+.menu {
+}
+
+.menu a {
+}
+
+.menu a:hover {
+}
+
+.menu .active {
+}
+
+.info {
+}
+
+.info__join {
+}
+
+.info__join h1 {
+}
+
+.info__text {
+}
+
+.info__button {
+}
+
+/* CARDS SECTION */
+
+.cards {
+}
+
+.cards__card {
+}
+
+.cards__children, 
+.cards__just-right, 
+.cards__old-fart {
+}
+
+.cards__children {
+}
+
+.cards__just-right {
+}
+
+.cards__old-fart {
+}
+
+.cards__card h3 {
+}
+
+.cards__card p {
+}
+
+/* ABOUT SECTION */
+
+.about {
+}
+
+.about h2 {
+}
+
+.about p {
+}
+
+/* HOW SECTION */
+
+.how {
+}
+
+.how__box {
+}
+
+.how__box:nth-child(1) {
+}
+
+.how__box:nth-child(3) {
+}
+
+.how__box:nth-child(5) {
+}
+
+.how__box aside {
+}
+
+.how__box h2 {
+}
+
+.up {
+}
+
+.footer {
+}
+
+
+
+
+
+
+
+
